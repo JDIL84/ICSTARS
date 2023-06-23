@@ -164,7 +164,7 @@
 // } else {
 //     console.log("tech your wrong");
 // }
-    
+
 // let ar= ["shadi", "lucy", "kite"];
 
 // if(ar[0] === `john`){
@@ -186,6 +186,3 @@ if (guess === randomNumber) {
 } else {
   alert(`Oops! The correct number was ${randomNumber}. Better luck next time!`);
 }
-
-
-
